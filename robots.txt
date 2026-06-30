@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lakecharlespestcontrolco.com/sitemap.xml
